@@ -1,0 +1,23 @@
+{
+  "version": "2.2.0",
+  "build": 220,
+  "versionCodes": {
+    "armv7": 1220,
+    "arm64": 2220
+  },
+  "apks": {
+    "armv7": {
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.2.0/hisab-almozaw3-2.2.0-armv7.apk",
+      "sha256": "e9e8bf9bb29a60f19846de4e32ffee88925bf1be044f486e4f6d2864094338a3",
+      "size": 22634351
+    },
+    "arm64": {
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.2.0/hisab-almozaw3-2.2.0-arm64.apk",
+      "sha256": "eaa969713a0a5f36fb9bb6fd4992aee48aed8633144e0a09280d2ba779a4cc3c",
+      "size": 26584275
+    }
+  },
+  "notes": "قائمة جانبية وزر إعدادات، إضافة صنف بالباركود، شاشة المصاريف، ترخيص وتحديث عن بعد، إصلاحات تخطيط.",
+  "publishedAt": "2026-11-15",
+  "minSupportedBuild": 0
+}
