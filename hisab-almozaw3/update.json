@@ -1,23 +1,23 @@
 {
-  "version": "2.3.0",
-  "build": 230,
+  "version": "2.3.1",
+  "build": 231,
   "versionCodes": {
-    "armv7": 1230,
-    "arm64": 2230
+    "armv7": 1231,
+    "arm64": 2231
   },
   "apks": {
     "armv7": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.0/hisab-almozaw3-2.3.0-armv7.apk",
-      "sha256": "4b72acf784793c68062a79fba06b158990df4a2ed45bd2d7daa432a7a945fa1a",
-      "size": 17084392
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.1/hisab-almozaw3-2.3.1-armv7.apk",
+      "sha256": "1d40d00441df5d9ff79583493ad8d63695cf5367bfd6810afbe8cf23bca50721",
+      "size": 16872030
     },
     "arm64": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.0/hisab-almozaw3-2.3.0-arm64.apk",
-      "sha256": "b13010aa3cfecd7b1a61638c311cc8a4a7344ac3f08c3dd5d9c0651d8ddd66b7",
-      "size": 19543374
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.1/hisab-almozaw3-2.3.1-arm64.apk",
+      "sha256": "a0c3b0df8cbc35ce30cb51f483a14d232e0a222f10dc14c6d0874c56465146b9",
+      "size": 19331012
     }
   },
-  "notes": "رئيسية ثابتة وسجل اليوم، رؤوس مثبتة، تواصل مع المطوّر، إصلاح التباين بالوضع الداكن، حجم أصغر (arm64 19.5MB). الماسح يحتاج خدمات Google Play.",
+  "notes": "الرئيسية ثابتة بلا تمرير، خط التطبيق في كل العناوين والأزرار، أيقونة متكيّفة، حجم أصغر (arm64 19.3MB).",
   "publishedAt": "2026-11-21",
   "minSupportedBuild": 0
 }
