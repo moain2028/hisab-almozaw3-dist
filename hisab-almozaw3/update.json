@@ -1,23 +1,23 @@
 {
-  "version": "2.6.0",
-  "build": 260,
+  "version": "2.7.0",
+  "build": 270,
   "versionCodes": {
-    "armv7": 1260,
-    "arm64": 2260
+    "armv7": 1270,
+    "arm64": 2270
   },
   "apks": {
     "armv7": {
-      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/260/armv7.apk",
-      "sha256": "0551267afa216d59d30689762f17e51a23f23c782c790d0e4a0b0baf419be12b",
-      "size": 8825797
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/270/armv7.apk",
+      "sha256": "d4632aba6bd9b2f85aa7707682e909275f8b9e2b397b7bfb7400a986eea37c15",
+      "size": 8817605
     },
     "arm64": {
-      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/260/arm64.apk",
-      "sha256": "41a50e16461f097e81a4e619f84153c66393452387a48992f490ddeddd8af0f7",
-      "size": 9153467
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/270/arm64.apk",
+      "sha256": "e55969f253bbd346a22ebb8cf87058b36815d23b689be2e5a40f96c5234242b8",
+      "size": 9149371
     }
   },
-  "notes": "• رسائل من المطوّر داخل التطبيق\n• نسخة احتياطية عند الطلب\n• كود تفعيل خاص لكل جهاز\n• تحسينات وإصلاحات",
+  "notes": "• إشعار فوري بالتحديثات\n• اتصال أسرع بالمنصة\n• نسخ احتياطي أسهل (نسخ · استرجاع)\n• قائمة جانبية أخف",
   "publishedAt": "2026-11-21",
   "minSupportedBuild": 0
 }
