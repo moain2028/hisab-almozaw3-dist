@@ -1,0 +1,20 @@
+{
+  "developer": {
+    "name": "معين العباسي",
+    "phone": "+967770941666",
+    "website": "https://alabbasi.uk"
+  },
+  "apps": [
+    {
+      "id": "hisab-almozaw3",
+      "name": "حساب الموزع",
+      "type": "محاسبة · توزيع",
+      "summary": "دفتر الموزع اليومي: عطاء الصباح على البقالات، تحصيل الليل، وحساب التاجر — يعمل بلا إنترنت.",
+      "icon": "assets/hisab-almozaw3.png",
+      "platform": "أندرويد 7 فما فوق",
+      "update": "https://raw.githubusercontent.com/moain2028/hisab-almozaw3-dist/main/hisab-almozaw3/update.json",
+      "releases": "https://github.com/moain2028/hisab-almozaw3-dist/releases",
+      "notes": ["الماسح بالكاميرا يحتاج خدمات Google Play."]
+    }
+  ]
+}

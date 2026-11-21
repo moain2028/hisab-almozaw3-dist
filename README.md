@@ -21,3 +21,8 @@
 - **قفل كل النسخ:** `"active": false` (المستخدم يُدخل الكود لفتحها).
 - **تغيير الكود:** `python3 tool/license_hash.py NEW-CODE` في مستودع المصدر ثم ضع الناتج في `codeHash`.
 - **تحديث إلزامي:** ارفع `minSupportedBuild` لأعلى من build النسخ القديمة.
+
+## صفحة التنزيلات `downloads.alabbasi.uk`
+- المصدر: `downloads-site/` (HTML ثابت عربي RTL، فاتح/داكن). يقرأ `apps.json` (قائمة التطبيقات) ثم `update.json` لكل تطبيق ⇒ **الإصدار والحجم وروابط arm64/armv7 تتحدّث تلقائياً** عند نشر إصدار جديد بلا إعادة نشر للصفحة.
+- إضافة تطبيق آخر: عنصر جديد في `apps.json` + أيقونته في `assets/`.
+- النشر: `CLOUDFLARE_API_TOKEN=… CLOUDFLARE_ACCOUNT_ID=… ./downloads-site/deploy.sh` (مشروع Pages مستقل `alabbasi-downloads`، يلمس سجل `downloads` فقط).
