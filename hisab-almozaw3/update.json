@@ -7,12 +7,12 @@
   },
   "apks": {
     "armv7": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.5.0/hisab-almozaw3-2.5.0-armv7.apk",
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/250/armv7.apk",
       "sha256": "dbc745b5427ec9bcfc902d86694e5fef4d23b100fb3bbaf48cb5b296eafa6a76",
       "size": 8817605
     },
     "arm64": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.5.0/hisab-almozaw3-2.5.0-arm64.apk",
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/250/arm64.apk",
       "sha256": "27de990ad03c8640fcf0ba3e7ab0421dbf7a0be063d71da1fdb35fd7e51979f1",
       "size": 9149371
     }
