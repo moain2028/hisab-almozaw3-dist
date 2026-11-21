@@ -1,23 +1,23 @@
 {
-  "version": "2.5.0",
-  "build": 250,
+  "version": "2.6.0",
+  "build": 260,
   "versionCodes": {
-    "armv7": 1250,
-    "arm64": 2250
+    "armv7": 1260,
+    "arm64": 2260
   },
   "apks": {
     "armv7": {
-      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/250/armv7.apk",
-      "sha256": "dbc745b5427ec9bcfc902d86694e5fef4d23b100fb3bbaf48cb5b296eafa6a76",
-      "size": 8817605
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/260/armv7.apk",
+      "sha256": "0551267afa216d59d30689762f17e51a23f23c782c790d0e4a0b0baf419be12b",
+      "size": 8825797
     },
     "arm64": {
-      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/250/arm64.apk",
-      "sha256": "27de990ad03c8640fcf0ba3e7ab0421dbf7a0be063d71da1fdb35fd7e51979f1",
-      "size": 9149371
+      "url": "https://api.alabbasi.uk/v1/apps/hisab-almozaw3/files/260/arm64.apk",
+      "sha256": "41a50e16461f097e81a4e619f84153c66393452387a48992f490ddeddd8af0f7",
+      "size": 9153467
     }
   },
-  "notes": "القفل لكل جهاز من لوحة المنصة، القراءة من api.alabbasi.uk مع GitHub احتياطاً، معرّف الجهاز في الإعدادات.",
+  "notes": "• رسائل من المطوّر داخل التطبيق\n• نسخة احتياطية عند الطلب\n• كود تفعيل خاص لكل جهاز\n• تحسينات وإصلاحات",
   "publishedAt": "2026-11-21",
   "minSupportedBuild": 0
 }
