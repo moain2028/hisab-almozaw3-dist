@@ -1,23 +1,23 @@
 {
-  "version": "2.3.1",
-  "build": 231,
+  "version": "2.4.0",
+  "build": 240,
   "versionCodes": {
-    "armv7": 1231,
-    "arm64": 2231
+    "armv7": 1240,
+    "arm64": 2240
   },
   "apks": {
     "armv7": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.1/hisab-almozaw3-2.3.1-armv7.apk",
-      "sha256": "1d40d00441df5d9ff79583493ad8d63695cf5367bfd6810afbe8cf23bca50721",
-      "size": 16872030
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.4.0/hisab-almozaw3-2.4.0-armv7.apk",
+      "sha256": "88928e14861a687f571caea445ae0a23be8edd0002e7013144d19247a17acbf2",
+      "size": 8772549
     },
     "arm64": {
-      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.3.1/hisab-almozaw3-2.3.1-arm64.apk",
-      "sha256": "a0c3b0df8cbc35ce30cb51f483a14d232e0a222f10dc14c6d0874c56465146b9",
-      "size": 19331012
+      "url": "https://github.com/moain2028/hisab-almozaw3-dist/releases/download/v2.4.0/hisab-almozaw3-2.4.0-arm64.apk",
+      "sha256": "09d83ad59134571462fbf76cebd5d9c1462436efe26cbbe29048569ed297dea7",
+      "size": 9112507
     }
   },
-  "notes": "الرئيسية ثابتة بلا تمرير، خط التطبيق في كل العناوين والأزرار، أيقونة متكيّفة، حجم أصغر (arm64 19.3MB).",
+  "notes": "هوية جديدة فاخرة (بنفسجي وذهبي)، أيقونة جديدة، التنزيل أصغر بالنصف (arm64 9.1MB).",
   "publishedAt": "2026-11-21",
   "minSupportedBuild": 0
 }
