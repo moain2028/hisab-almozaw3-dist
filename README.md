@@ -14,6 +14,7 @@
 ## الإصدارات
 | الإصدار | arm64 | armv7 |
 |---|---|---|
+| [2.3.0](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.3.0) | 19.5MB · versionCode 2230 | 17.1MB · versionCode 1230 |
 | [2.2.0](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.2.0) | 26.6MB · versionCode 2220 | 22.6MB · versionCode 1220 |
 
 ## التحكم
