@@ -26,4 +26,5 @@
 ## صفحة التنزيلات `downloads.alabbasi.uk`
 - المصدر: `downloads-site/` (HTML ثابت عربي RTL، فاتح/داكن). يقرأ `apps.json` (قائمة التطبيقات) ثم `update.json` لكل تطبيق ⇒ **الإصدار والحجم وروابط arm64/armv7 تتحدّث تلقائياً** عند نشر إصدار جديد بلا إعادة نشر للصفحة.
 - إضافة تطبيق آخر: عنصر جديد في `apps.json` + أيقونته في `assets/`.
-- النشر: `CLOUDFLARE_API_TOKEN=… CLOUDFLARE_ACCOUNT_ID=… ./downloads-site/deploy.sh` (مشروع Pages مستقل `alabbasi-downloads`، يلمس سجل `downloads` فقط).
+- **منشورة الآن (مؤقتاً) على GitHub Pages:** https://moain2028.github.io/hisab-almozaw3-dist/ (فرع `gh-pages` = نسخة من `downloads-site/` بدون deploy.sh/_headers). لتحديث الصفحة نفسها انسخ الملفات للفرع؛ الإصدارات تتحدّث تلقائياً من update.json.
+- النشر على الدومين: `CLOUDFLARE_API_TOKEN=… CLOUDFLARE_ACCOUNT_ID=… ./downloads-site/deploy.sh` (مشروع Pages مستقل `alabbasi-downloads`، يلمس سجل `downloads` فقط).
