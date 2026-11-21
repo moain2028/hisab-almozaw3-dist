@@ -14,6 +14,7 @@
 ## الإصدارات
 | الإصدار | arm64 | armv7 |
 |---|---|---|
+| [2.5.0](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.5.0) | 9.1MB · versionCode 2250 | 8.8MB · versionCode 1250 |
 | [2.4.0](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.4.0) | 9.1MB · versionCode 2240 | 8.8MB · versionCode 1240 |
 | [2.3.1](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.3.1) | 19.3MB · versionCode 2231 | 16.9MB · versionCode 1231 |
 | [2.3.0](https://github.com/moain2028/hisab-almozaw3-dist/releases/tag/v2.3.0) | 19.5MB · versionCode 2230 | 17.1MB · versionCode 1230 |
@@ -29,3 +30,8 @@
 - إضافة تطبيق آخر: عنصر جديد في `apps.json` + أيقونته في `assets/`.
 - **منشورة الآن (مؤقتاً) على GitHub Pages:** https://moain2028.github.io/hisab-almozaw3-dist/ (فرع `gh-pages` = نسخة من `downloads-site/` بدون deploy.sh/_headers). لتحديث الصفحة نفسها انسخ الملفات للفرع؛ الإصدارات تتحدّث تلقائياً من update.json.
 - النشر على الدومين: `CLOUDFLARE_API_TOKEN=… CLOUDFLARE_ACCOUNT_ID=… ./downloads-site/deploy.sh` (مشروع Pages مستقل `alabbasi-downloads`، يلمس سجل `downloads` فقط).
+
+
+## منصة النشر
+منذ 2.5.0 التطبيق يقرأ من `https://api.alabbasi.uk/v1/apps/hisab-almozaw3/` أولاً، وهذا المستودع احتياطي.
+صفحة التنزيلات الرسمية: https://downloads.alabbasi.uk. **حدّث update.json/license.json هنا وفي المنصة معاً** حتى تنتقل كل الأجهزة.
